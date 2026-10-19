@@ -1,0 +1,6 @@
+{
+  "name": "The Void Markt — Telegram Serverless Reminder System",
+  "description": "Telegram Serverless bot and Mini App with durable SQLite persistence, Jalali & Gregorian calendars, recurring reminders, and The Void Markt aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

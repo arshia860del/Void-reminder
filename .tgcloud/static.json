@@ -1,0 +1,52 @@
+{
+  "hash": "c590e30b21bb6074b86fd05c74cc780b68cd9d41f379f3403d443d625c35312f",
+  "manifest": {
+    "assets/index-BCinFdlG.css": {
+      "hash": "8563bb1a57c29d11678c43eb87505ec128df4a63c2cbee7cd0317dd7239050c2",
+      "size": 33015
+    },
+    "assets/index-BKS_gIBJ.js": {
+      "hash": "8f2de30cc4bf49b23cebd354b545c5d1e9c22fb9d38b8e4c9b20fb1e026951be",
+      "size": 524770
+    },
+    "assets/index-BrJP_--a.css": {
+      "hash": "b0b7a9145fa668ecd288ff945b9b20dea2c8f3df2e70e4c1bc21e2f378c494b5",
+      "size": 48600
+    },
+    "assets/index-D-6P2mHl.js": {
+      "hash": "77dead22ea7cc49bc442239458b0cd088f2a2c29689daf226b7a3c80ed2d5d85",
+      "size": 270254
+    },
+    "assets/index-DgWBVtDL.js": {
+      "hash": "2b9399dc4f438e7dca4be1052a2237913dc13f18a9230ad2c4f7f950982ed585",
+      "size": 503979
+    },
+    "assets/index-DJDY98Ae.css": {
+      "hash": "0b2e1c549b08bab5c8f1e0672eeeeb2a185c8c27e4d3f116840234b23bf183df",
+      "size": 29791
+    },
+    "assets/index-hG1XKHvO.js": {
+      "hash": "2fe163583a718a0aca2df89b5344ac5bd53f4421c7e448f56eb3ac066717d871",
+      "size": 511762
+    },
+    "assets/index-UyDtAUUa.css": {
+      "hash": "594e5cf74fdda5973fba84a503a0c07293554df6d03225b3c446c8d789d02028",
+      "size": 38878
+    },
+    "assets/zipDownloader-ChsJTlml.js": {
+      "hash": "c7152d30550b0a5fa77f6dea03b0d1a6f5910a7f169d4429e7af43b25cdf97ab",
+      "size": 94
+    },
+    "index.html": {
+      "hash": "392cd6118c54172e824c3a0ffd8318f83e76da7b451389200d83c28696ca02db",
+      "size": 1562
+    }
+  },
+  "config": {
+    "spa": true,
+    "immutable": [],
+    "headers": [],
+    "redirects": []
+  },
+  "url": "https://app8886323021.tgcloud.ai/"
+}
